@@ -1,0 +1,12 @@
+apiVersion: 1
+
+datasources:
+  - name: MongoDB
+    type: mongodb-datasource
+    access: proxy
+    url: mongodb://admin:admin@mongodb:27017
+    database: user_analytics
+    isDefault: true
+    editable: true
+    jsonData:
+      tlsSkipVerify: true 

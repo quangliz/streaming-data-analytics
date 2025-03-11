@@ -1,0 +1,6 @@
+# requirements.txt
+kafka-python==2.0.2
+pymongo==4.3.3
+pyspark==3.5.0
+requests==2.28.2
+python-dotenv==1.0.0
