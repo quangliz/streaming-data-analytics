@@ -1,7 +1,3 @@
-# Stream Data Processing Pipeline
-
-A real-time data processing pipeline that collects random user data, processes it with Apache Spark, stores results in MongoDB, and visualizes insights with Grafana.
-
 ## Architecture
 
 1. **Data Collection**: Python script fetches data from RandomUser.me API and sends it to Kafka
