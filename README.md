@@ -39,8 +39,8 @@ stream-data-pipeline/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stream-data-pipeline.git
-   cd stream-data-pipeline
+   git clone https://github.com/quangliz/streaming-data-analytics.git
+   cd streaming-data-analytics
    ```
 2. Install packages:
    ```
